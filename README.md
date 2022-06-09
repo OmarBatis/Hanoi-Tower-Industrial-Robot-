@@ -1,0 +1,2 @@
+# Hanoi-Tower-Industrial-Robot-
+This lab is about the investigation on the trajectory path of the industrial robotic arm to give out a solution based on the problem given under suitable operating speed. In this laboratory, the industrial robot used is an ABB robot with the specification of IRB120_3kg 0.58m. The problem statement given is to identify the trajectory and the shortest path for the ABB robot to solve the Hanoi Tower problem. At the end of this laboratory, the Hanoi Tower problem can be solved in 22 seconds.
